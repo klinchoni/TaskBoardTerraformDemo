@@ -7,5 +7,5 @@ sql_database_name       = "TaskBoardDatabase"
 sql_admin_login         = "missadministrator"
 sql_admin_password      = "thisIsKat11"
 firewall_rule_name      = "FirewallRule1"
-repo_URL                =  "https://github.com/klinchoni/Azure-Web-App-with-Database-TaskBoard"
+repo_URL                = "https://github.com/klinchoni/Azure-Web-App-with-Database-TaskBoard"
 
